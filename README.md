@@ -1,4 +1,4 @@
-# E-MTL: Efficient Multi-task Learning Architecture using Hybrid Transformer and ConvNet blocks
+# SWIN-MTL: Swin Transformer based Multi-Task Learning Model
 
 ## Introduction
 
