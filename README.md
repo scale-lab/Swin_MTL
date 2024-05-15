@@ -2,9 +2,7 @@
 
 ## Introduction
 
-This is the official implementation of the paper: **E-MTL: Efficient Multi-task Learning Architecture using Hybrid Transformer and ConvNet blocks**. 
-
-This repository provides a Python-based implementation of the MTL architecture proposed in the paper. The repository is based upon [Swin-Transformer](https://github.com/microsoft/Swin-Transformer) and uses some modules from [Multi-Task-Learning-PyTorch](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch).
+This repository provides a Python-based implementation of an efficient Multi-task learning architecture for dense prediction tasks. The repository is based upon [Swin-Transformer](https://github.com/microsoft/Swin-Transformer) and uses some modules from [Multi-Task-Learning-PyTorch](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch).
 
 ## Download Datasets
 We use the same data (PASCAL-Context and NYUD-v2) as ATRC. You can download the data from: [PASCALContext.tar.gz](https://hkustconnect-my.sharepoint.com/personal/hyeae_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhyeae%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdataset%2FPASCALContext%2Etar%2Egz&parent=%2Fpersonal%2Fhyeae%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdataset&ga=1), [NYUDv2.tar.gz](https://hkustconnect-my.sharepoint.com/personal/hyeae_connect_ust_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fhyeae%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdataset%2FNYUDv2%2Etar%2Egz&parent=%2Fpersonal%2Fhyeae%5Fconnect%5Fust%5Fhk%2FDocuments%2Fdataset&ga=1)
